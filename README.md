@@ -1,7 +1,7 @@
 # myprm
 Myprm is a command line tool to be a PRM (Personal Resource Manager)
 
-
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -19,4 +19,7 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+     
+```
+
 
